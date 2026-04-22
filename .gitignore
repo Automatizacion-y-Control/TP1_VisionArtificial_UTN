@@ -1,3 +1,4 @@
 **/backlog.md
 **/__pycache__/
 *.pyc
+generar_pdf.py

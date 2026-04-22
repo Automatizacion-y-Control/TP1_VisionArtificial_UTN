@@ -273,5 +273,6 @@ A partir del desarrollo realizado, pueden establecerse las siguientes conclusion
 
 Ademas de este documento en Markdown, la carpeta `d_presentacion/` incluye:
 
+- [`TP1_Informe.pdf`](TP1_Informe.pdf): informe tecnico final en formato PDF, listo para entregar,
 - `colab/tp1.ipynb`: desarrollo ejecutable del TP en formato notebook,
 - `assets/`: entradas y salidas reutilizadas del prototipado para sustentar esta presentacion.
