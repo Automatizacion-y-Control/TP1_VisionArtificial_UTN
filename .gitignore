@@ -1,4 +1,8 @@
+# Archivos y directorios a ignorar
 **/backlog.md
 **/__pycache__/
 *.pyc
 generar_pdf.py
+
+#carpetas/
+.vscode/
